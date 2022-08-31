@@ -1,0 +1,20 @@
+[
+    {
+        "id":9,
+        "title":"프라이머리 후드 1 LAVENDER",
+        "imgUrl":"/img/product_img10.jpg",
+        "price":"109,000원"
+    },
+    {
+        "id":10,
+        "title":"드래프트 KHAKI",
+        "imgUrl":"/img/product_img11.jpg",
+        "price":"119,000원"
+    },
+    {
+        "id":11,
+        "title":"엔드존 자켓 BLACK",
+        "imgUrl":"/img/product_img12.jpg",
+        "price":"169,000원"
+    }    
+]
